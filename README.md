@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/joewhocodes/coleycreates">
+  <a href="https://github.com/joewhocodes/coley-creates">
     <img src="/img/logo.jpeg" alt="Logo">
   </a>
 
@@ -16,14 +16,14 @@
     Multimedia Portfolio Website
   </p>
     <br />
-    <a href="https://github.com/joewhocodes/coleycreates"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/joewhocodes/coley-creates"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://coleycreates.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/joewhocodes/coleycreates/issues">Report Bug</a>
+    <a href="https://github.com/joewhocodes/coley-creates/issues">Report Bug</a>
     ·
-    <a href="https://github.com/joewhocodes/coleycreates/issues">Request Feature</a>
+    <a href="https://github.com/joewhocodes/coley-creates/issues">Request Feature</a>
   </p>
 </div>
 
@@ -88,7 +88,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/joewhocodes/coleycreates.git
+   git clone https://github.com/joewhocodes/coley-creates.git
    ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -108,7 +108,7 @@ To get a local copy up and running follow these simple example steps.
 - [ ] Feature 3
     - [ ] Nested Feature -->
 
-See the [open issues](https://github.com/joewhocodes/coleycreates/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/joewhocodes/coley-creates/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -129,7 +129,7 @@ Copyright (c) 2022 Joe Ulyatt. See `LICENSE.txt` for more information.
 
 Joe Ulyatt - [@joewhocodes](https://twitter.com/joewhocodes) - joewhocodes@gmail.com
 
-Project Link: [https://github.com/joewhocodes/coleycreates](https://github.com/joewhocodes/coleycreates)
+Project Link: [https://github.com/joewhocodes/coley-creates](https://github.com/joewhocodes/coley-creates)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -138,16 +138,16 @@ Project Link: [https://github.com/joewhocodes/coleycreates](https://github.com/j
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/joewhocodes/coleycreates.svg?style=for-the-badge
-[contributors-url]: https://github.com/joewhocodes/coleycreates/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/joewhocodes/coleycreates.svg?style=for-the-badge
-[forks-url]: https://github.com/joewhocodes/coleycreates/network/members
-[stars-shield]: https://img.shields.io/github/stars/joewhocodes/coleycreates.svg?style=for-the-badge
-[stars-url]: https://github.com/joewhocodes/coleycreates/stargazers
-[issues-shield]: https://img.shields.io/github/issues/joewhocodes/coleycreates.svg?style=for-the-badge
-[issues-url]: https://github.com/joewhocodes/coleycreates/issues
-[license-shield]: https://img.shields.io/github/license/joewhocodes/coleycreates.svg?style=for-the-badge
-[license-url]: https://github.com/joewhocodes/coleycreates/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/joewhocodes/coley-creates.svg?style=for-the-badge
+[contributors-url]: https://github.com/joewhocodes/coley-creates/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/joewhocodes/coley-creates.svg?style=for-the-badge
+[forks-url]: https://github.com/joewhocodes/coley-creates/network/members
+[stars-shield]: https://img.shields.io/github/stars/joewhocodes/coley-creates.svg?style=for-the-badge
+[stars-url]: https://github.com/joewhocodes/coley-creates/stargazers
+[issues-shield]: https://img.shields.io/github/issues/joewhocodes/coley-creates.svg?style=for-the-badge
+[issues-url]: https://github.com/joewhocodes/coley-creates/issues
+[license-shield]: https://img.shields.io/github/license/joewhocodes/coley-creates.svg?style=for-the-badge
+[license-url]: https://github.com/joewhocodes/coley-creates/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/joewhocodes
-[product-screenshot]: /src/img/screenshot.png
+[product-screenshot]: /img/screenshot.png
