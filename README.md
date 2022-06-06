@@ -90,11 +90,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/joewhocodes/coley-creates.git
    ```
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
